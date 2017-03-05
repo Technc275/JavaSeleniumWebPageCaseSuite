@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/WbePageTestCase.iml" filepath="$PROJECT_DIR$/WbePageTestCase.iml" />
+      <module fileurl="file://$PROJECT_DIR$/WebPageTestCase.iml" filepath="$PROJECT_DIR$/WebPageTestCase.iml" />
+    </modules>
+  </component>
+</project>
